@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My Website",
+      "body": "Favourite of all the websites i ever worked on is the OmniFood Project. There is virtually nothing a site contains that this Omnifood project doesnt have. Starting from hard-coding every piece of details I have in the project to styling all the contents where there is need for that without the use of a CSS Framework. Another important part of the project is making it responsive. I did the responsiveness for different screen sizes and they all worked out perfectly well. Another important part of the project is my ability to add some javascript effect to certain parts of the project which makes it very interesting. Few to mention of the Javascript effects are the scrolling effects, diappearing section, sticky Navbar, and so on. A lot of other effects in the project that i cant even mwntion them fully. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores corporis cupiditate beatae odio aperiam debitis ducimus unde pariatur fuga, incidunt omnis optio quae nobis excepturi voluptatem distinctio voluptatibus veritatis a!...",
+      "author": "Babatunde",
+      "id": 1
+    },
+    {
+      "title": "My Birthday Party",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores corporis cupiditate beatae odio aperiam debitis ducimus unde pariatur fuga, incidunt omnis optio quae nobis excepturi voluptatem distinctio voluptatibus veritatis a! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores corporis cupiditate beatae odio aperiam debitis ducimus unde pariatur fuga, incidunt omnis optio quae nobis excepturi voluptatem distinctio voluptatibus veritatis a! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores corporis cupiditate beatae odio aperiam debitis ducimus unde pariatur fuga, incidunt omnis optio quae nobis excepturi voluptatem distinctio voluptatibus veritatis a! Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores corporis cupiditate beatae odio aperiam debitis ducimus unde pariatur fuga, incidunt omnis optio quae nobis excepturi voluptatem distinctio voluptatibus veritatis a!",
+      "author": "Razaq",
+      "id": 2
+    },
+    {
+      "title": "How to use condom",
+      "body": "Condom is a rubber material which comes in different sizes and colors. Condom is a internationally recommended tool for family planning as well as controlling transfer of diseases from one person to another",
+      "author": "Adegbite",
+      "id": 3
+    }
+  ]
+}

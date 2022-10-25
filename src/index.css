@@ -1,0 +1,86 @@
+.App {
+  max-width: 600px;
+  margin: 0 auto;
+}
+.nav-bar {
+  max-width: 600px;
+  border-bottom: 1px solid rgb(84, 158, 84);
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+.nav-bar h2 {
+  color: rgb(84, 158, 84);
+  font-weight: bold;
+}
+.links {
+  margin-left: auto;
+  display: flex;
+  gap: 8px;
+}
+.links a {
+  text-decoration: none;
+  font-size: 20px;
+}
+.content {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+h3 {
+  color: rgb(84, 158, 84);
+  margin-bottom: 0 !important;
+  padding-bottom: 15px;
+}
+.blog-review {
+  border-bottom: 1px solid rgba(84, 158, 84, 0.212);
+  padding: 10px 16px;
+}
+.blog-review a {
+  text-decoration: none;
+}
+.blog-review:hover {
+  box-shadow: 1px 3px 5px rgb(0, 0, 0, 0.1);
+}
+.create {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.create label {
+  display: block;
+}
+.create h2 {
+  font-size: 20px;
+  margin-bottom: 30px;
+  color: rgb(84, 158, 84);
+}
+.create input,
+.create textarea,
+.create select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid rgba(84, 158, 84, 0.212);
+  box-sizing: border-box;
+  display: block;
+}
+.create button {
+  cursor: pointer;
+  padding: 0.5rem;
+  border: none;
+  color: white;
+  background-color: rgb(84, 158, 84);
+  border-radius: 8px;
+}
+.create button:hover {
+  background-color: rgb(40, 75, 40);
+}
+.del-btn {
+  cursor: pointer;
+  padding: 0.5rem;
+  border: none;
+  color: white;
+  background-color: rgb(84, 158, 84);
+  border-radius: 8px;
+}
